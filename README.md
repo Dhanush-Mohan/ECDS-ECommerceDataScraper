@@ -1,6 +1,9 @@
 # ECDS - ECommerce Data Scraper
 ## PRODUCT MARKET TREND ANALYSIS TOOL
 
+![image](https://github.com/Dhanush-Mohan/ECDS/assets/115526861/d19a4759-1fd3-4778-a09a-76b7a7abc321)
+
+
 # 1.	Introduction
 
 The Product Market Trend Analysis Tool is a web application designed to assist businesses in analysing market trends for specific products on various e-commerce websites. The tool allows users to input a product name and select an e-commerce site, providing them with detailed product ratings, reviews, and other relevant information from the chosen platform. 
